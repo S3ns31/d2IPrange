@@ -3,7 +3,7 @@
 #i will not be held accountable for missuse of this software/program
 #this program takes a domain name translates to an ip and will scan the ip range associated with the host
 #at time will assit in locating services running on the same ip range 
-echo "USEAGE bash ./LulzScanner.sh HOST"
+echo "USEAGE bash ./d2ip.sh HOST"
 echo "HOST = DomainName eg.(google.com, ebay.com)" 
 HOST1=$1 
 proc=$2 
